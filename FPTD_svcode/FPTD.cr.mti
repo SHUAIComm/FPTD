@@ -1,0 +1,666 @@
+C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Epsilon_Pipe_razor2
+
+Top level modules:
+	Epsilon_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/LowerDecoder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/LowerDecoder.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module LowerDecoder
+
+Top level modules:
+	LowerDecoder
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL480_N5_M7.sv {0 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL480_N5_M7.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module FPTD_Core_FL480_N5_M7
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL480_N5_M7.sv(10): (vlog-2730) Undefined variable: 'FrameLength'.
+
+** Error (suppressible): C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL480_N5_M7.sv(10): (vlog-2388) 'bua2' already declared in this scope (FPTD_Core_FL480_N5_M7).
+
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL480_N5_M7.sv(10): Identifier must be declared with a port mode: bua2.
+
+} {4.0 5.0 8.0 9.0} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_Pipe_razor1
+
+Top level modules:
+	Alpha_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta_razor2
+
+Top level modules:
+	Beta_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_divider.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_divider
+
+Top level modules:
+	tb_divider
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Tmodel.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Tmodel.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Tmodel
+
+Top level modules:
+	Tmodel
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_razor2
+
+Top level modules:
+	Alpha_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/UpperDecoder_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/UpperDecoder_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module UpperDecoder_Pipe_razor1
+
+Top level modules:
+	UpperDecoder_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma_Pipe_razor1
+
+Top level modules:
+	Gamma_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_Pipe_razor3
+
+Top level modules:
+	Ext_Pipe_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_razor1
+
+Top level modules:
+	Ext_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_Pipe_razor1
+
+Top level modules:
+	Section_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Adder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Adder.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta_Pipe_razor2
+
+Top level modules:
+	Beta_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Control.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Control.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_razor3
+
+Top level modules:
+	Section_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_MGM_razor2.v {1 {vlog -work work -vopt -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_MGM_razor2.v
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module CLK_MGM_razor2
+
+Top level modules:
+	CLK_MGM_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/DMUX.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/DMUX.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module DMUXS
+-- Compiling module DMUX
+
+Top level modules:
+	DMUXS
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_mux.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_mux.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_mux
+
+Top level modules:
+	tb_mux
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoAlpha.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoAlpha.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_NoAlpha
+
+Top level modules:
+	Section_NoAlpha
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/RowDecoder_netlist.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/RowDecoder_netlist.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module RowDecoder
+
+Top level modules:
+	RowDecoder
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ErrorReg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ErrorReg.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ErrorReg
+
+Top level modules:
+	ErrorReg
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_OutShiftReg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_OutShiftReg.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_OutShiftReg
+
+Top level modules:
+	tb_OutShiftReg
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Counter.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Counter.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Error_Counter
+
+Top level modules:
+	Error_Counter
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/InShiftReg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/InShiftReg.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module InShiftReg
+
+Top level modules:
+	InShiftReg
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/OutShiftReg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/OutShiftReg.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module OutShiftReg
+
+Top level modules:
+	OutShiftReg
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_Pipe_razor1
+
+Top level modules:
+	Ext_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module FPTD
+
+Top level modules:
+	FPTD
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/BitClip.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/BitClip.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module BitClip
+
+Top level modules:
+	BitClip
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Epsilon_Pipe_razor3
+
+Top level modules:
+	Epsilon_Pipe_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv {0 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_section_all
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(33): (vlog-2730) Undefined variable: 'State'.
+
+** Error (suppressible): C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(42): (vlog-2388) 'upper_be1' already declared in this scope (tb_section_all).
+
+** Error (suppressible): C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(59): (vlog-2388) 'lower_be1' already declared in this scope (tb_section_all).
+
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(455): (vlog-2730) Undefined variable: 'Framelength'.
+
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(455): near "+": syntax error, unexpected '+'.
+
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(457): near ")": syntax error, unexpected ')', expecting ';'.
+
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(488): near "end": syntax error, unexpected end.
+
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(491): near ")": syntax error, unexpected ')', expecting ';'.
+
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(493): near ")": syntax error, unexpected ')', expecting ';'.
+
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(499): 'i' is an invalid type in Generate loop. Must be a genvar.
+** Error (suppressible): C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(501): (vlog-2720) A generate begin/end pair has been found outside of generate construct.
+
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(501): 'j' is an invalid type in Generate loop. Must be a genvar.
+** Error: (vlog-13069) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(503): near "[": syntax error, unexpected '['.
+
+** Error: C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_all.sv(503): (vlog-13205) Syntax error found in the scope following 'BusData'. Is there a missing '::'?
+
+
+} {4.0 5.0 10.0 11.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 25.0 27.0 28.0 29.0} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ASIC.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ASIC.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ASIC
+
+Top level modules:
+	ASIC
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/comparator.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/comparator.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_tmodel.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_tmodel.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_Tmodel
+
+Top level modules:
+	tb_Tmodel
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_Pipe_razor2
+
+Top level modules:
+	Alpha_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_Gen_OddnEven.v {1 {vlog -work work -vopt -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_Gen_OddnEven.v
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module CLK_Gen_OddnEven
+
+Top level modules:
+	CLK_Gen_OddnEven
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_razor1
+
+Top level modules:
+	Section_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma
+
+Top level modules:
+	Gamma
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Section_Pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Section_Pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Error_Section_Pipe
+
+Top level modules:
+	Error_Section_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor3.sv {0 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta_razor3
+** Error (suppressible): (vlog-7045) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor3.sv(119): 'latch_enable' is driven by more than one continuous assignment. See C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor3.sv(116).
+
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section
+
+Top level modules:
+	Section
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor3.sv {0 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_razor3
+** Error (suppressible): (vlog-7045) C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor3.sv(128): 'latch_enable' is driven by more than one continuous assignment. See C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor3.sv(125).
+
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Section.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Error_Section.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Error_Section
+
+Top level modules:
+	Error_Section
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_Pipe
+
+Top level modules:
+	Ext_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/tb_section.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/tb_section.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_Section
+
+Top level modules:
+	tb_Section
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma_Pipe_razor2
+
+Top level modules:
+	Gamma_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_MGM_razor3.v {1 {vlog -work work -vopt -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/CLK_MGM_razor3.v
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module CLK_MGM_razor3
+
+Top level modules:
+	CLK_MGM_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma_Pipe
+
+Top level modules:
+	Gamma_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_razor2
+
+Top level modules:
+	Ext_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoBeta_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoBeta_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_NoBeta_Pipe_razor1
+
+Top level modules:
+	Section_NoBeta_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_Pipe_razor2
+
+Top level modules:
+	Section_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_Pipe_razor3.sv {2 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_razor.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+** Warning: (vlog-6) -- Waiting for lock by "ss4g13@UOS-213786, pid = 20548
+". Lockfile is "C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/work/_lock".
+
+-- Compiling module Beta_Pipe_razor3
+
+Top level modules:
+	Beta_Pipe_razor3
+-- Compiling module tb_Section_Razor
+
+Top level modules:
+	tb_Section_Razor
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module FPTD_Pipe_razor1
+
+Top level modules:
+	FPTD_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta
+
+Top level modules:
+	Beta
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_razor.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_razor.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_Section_Razor
+
+Top level modules:
+	tb_Section_Razor
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Epsilon_Pipe_razor1
+
+Top level modules:
+	Epsilon_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/behave_sim/tb_104ASIC.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/behave_sim/tb_104ASIC.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_ASIC
+
+Top level modules:
+	tb_ASIC
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/divider.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module divider
+
+Top level modules:
+	divider
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/EstimatedBit.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/EstimatedBit.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module EstimatedBit
+
+Top level modules:
+	EstimatedBit
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_InShiftReg.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_InShiftReg.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_InShiftReg
+
+Top level modules:
+	tb_InShiftReg
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext
+
+Top level modules:
+	Ext
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/LowerDecoder_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/LowerDecoder_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module LowerDecoder_Pipe_razor1
+
+Top level modules:
+	LowerDecoder_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta_razor1
+
+Top level modules:
+	Beta_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Termination.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Termination.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma_Termination
+
+Top level modules:
+	Gamma_Termination
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_razor1
+
+Top level modules:
+	Alpha_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ASIC_backup.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/ASIC_backup.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ASIC_backup
+
+Top level modules:
+	ASIC_backup
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_comparator.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_comparator.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_comparator
+
+Top level modules:
+	tb_comparator
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_Pipe_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_Pipe_razor2
+
+Top level modules:
+	Ext_Pipe_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Termination.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Termination.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_Termination
+
+Top level modules:
+	Section_Termination
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Beta_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Beta_Pipe_razor1
+
+Top level modules:
+	Beta_Pipe_razor1
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/DMUXS.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/DMUXS.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module DMUXS
+-- Compiling module DMUX
+
+Top level modules:
+	DMUXS
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Two.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Two.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Two
+
+Top level modules:
+	Two
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_Pipe
+
+Top level modules:
+	Section_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/MUX.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/MUX.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module MUXS
+-- Compiling module MUX
+
+Top level modules:
+	MUXS
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_dmux.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/tb_dmux.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_dmux
+
+Top level modules:
+	tb_dmux
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha_Pipe_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha_Pipe_razor3
+
+Top level modules:
+	Alpha_Pipe_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor2.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_razor2.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_razor2
+
+Top level modules:
+	Section_razor2
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoBeta.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoBeta.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_NoBeta
+
+Top level modules:
+	Section_NoBeta
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/MUXS.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/MUXS.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module MUXS
+-- Compiling module MUX
+
+Top level modules:
+	MUXS
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL40_N4_M5.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/FPTD_Core_FL40_N4_M5.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module FPTD_Core_FL40_N4_M5
+
+Top level modules:
+	FPTD_Core_FL40_N4_M5
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/tb_section_pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module tb_Section_Pipe
+
+Top level modules:
+	tb_Section_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Alpha.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Alpha
+
+Top level modules:
+	Alpha
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Epsilon_Pipe.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Epsilon_Pipe
+
+Top level modules:
+	Epsilon_Pipe
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/SysControl.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/SysControl.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module SysControl
+
+Top level modules:
+	SysControl
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Gamma_Pipe_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Gamma_Pipe_razor3
+
+Top level modules:
+	Gamma_Pipe_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Ext_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Ext_razor3
+
+Top level modules:
+	Ext_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/UpperDecoder.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/UpperDecoder.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module UpperDecoder
+
+Top level modules:
+	UpperDecoder
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor3.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_Pipe_razor3.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_Pipe_razor3
+
+Top level modules:
+	Section_Pipe_razor3
+
+} {} {}} C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoAlpha_Pipe_razor1.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ss4g13/Documents/PhD/FPTD_ASIC/Verilog/FPTD_verilog/src/Section_NoAlpha_Pipe_razor1.sv
+Model Technology ModelSim SE-64 vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Section_NoAlpha_Pipe_razor1
+
+Top level modules:
+	Section_NoAlpha_Pipe_razor1
+
+} {} {}}
