@@ -83,7 +83,7 @@ module tb_avalon_ASIC_shuai();
     string f_total_input;
     integer f_hndl_total_input;
     task open_files;
-	begin
+    begin
 	f_total_input = {"total_input_", FrameLength_str, "_", N_str, "N", M_str, "M_", Eb_N0_str, "dB.txt"}; 
 	f_hndl_total_input = $fopen(f_total_input, "r");
 	if (f_hndl_total_input == 0)    // Check if file exists
@@ -101,9 +101,10 @@ module tb_avalon_ASIC_shuai();
 	int data;
 	initial
 	begin
-		for (int row_index = 0; row_index < 860; row_index ++)
+		open_files();
+		for (int row_index = 0; row_index < 861; row_index ++)
 		begin
-			for (int column_index = 0; column_index < 200; column_index++)
+			for (int column_index = 0; column_index < 201; column_index++)
 			begin
 				count = $fscanf(f_hndl_total_input,"%d ",data);
 				IN_mem[row_index][column_index] = data;
