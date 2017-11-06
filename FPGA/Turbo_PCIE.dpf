@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+	</pin_info>
+	<buses>
+		<bus name="PCIE_RX_p[3..0](n)" direction="" >
+			<member name="PCIE_RX_p[3]" />
+			<member name="PCIE_RX_p[2]" />
+			<member name="PCIE_RX_p[1]" />
+			<member name="PCIE_RX_p[0]" />
+		</bus>
+		<bus name="PCIE_TX_p[3..0](n)" direction="" >
+			<member name="PCIE_TX_p[3]" />
+			<member name="PCIE_TX_p[2]" />
+			<member name="PCIE_TX_p[1]" />
+			<member name="PCIE_TX_p[0]" />
+		</bus>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>
